@@ -1,0 +1,6 @@
+postdata:
+1 id
+2 title
+3 description
+4 category
+5 image
